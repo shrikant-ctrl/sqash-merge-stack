@@ -1,0 +1,2 @@
+first line from branch A
+second line from branch A altered for branch B
