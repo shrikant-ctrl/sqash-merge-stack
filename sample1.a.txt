@@ -1,1 +1,2 @@
 line1 sample1a
+line2 sample1a branch B unaware of it
